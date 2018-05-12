@@ -1,0 +1,29 @@
+_repo: The-Buddha-s-Path-of-VirtueA-Translation-of-the-Dhammapada_35185
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Woodward, F. L. (Frank Lee)
+    alias: Woodward, Frank Lee
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '37517'
+    url: http://www.gutenberg.org/2009/agents/37517
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Virtues (Buddhism)'
+- !lcsh 'Buddhism'
+- !lcsh 'Buddhism -- Sacred books'
+title: 'The Buddha''s Path of Virtue: A Translation of the Dhammapada'
+url: http://www.gutenberg.org/ebooks/35185
